@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Unmesh Jana<br>I am a CS undergrad<br>I aspire to become a full-stack web developer
+Hi! I am Unmesh Jana<br>I am a CS undergrad<br>
 
 
 ## 🌐 Socials:
